@@ -6,6 +6,7 @@ Flags:
 -length: Sets the password length (default: 12).
 
 -complexity: Defines the character set complexity with three levels:
+
 low: Lowercase letters only.
 
 medium: Lowercase, uppercase, and digits.
